@@ -90,16 +90,16 @@ border: #fff;
 margin-top: 5px;
 }
 .linea-v2{
-  margin-left: 25px;
-    margin-top: 10px;
+  margin-left: 60px;
+    margin-top: -34px;
     border-right:1px solid #bbb;
-    height: 20px;
+    height: 23px;
 }
 .linea-v1{
   margin-left: 25px;
-    margin-top: 10px;
+    margin-top: 15px;
     border-right:1px solid #bbb;
-    height: 20px;
+    height: 23px;
 }
 .seccion2{
   margin-top: -20px;
